@@ -1,5 +1,5 @@
 # mogo
-##  You can look at it [here](https://illya-onyshchuk.github.io/mogo/.)
+##  You can look at demo [here](https://illya-onyshchuk.github.io/mogo/.)
 
 ![mogoimg](https://user-images.githubusercontent.com/52136228/82756370-8bb0a200-9de2-11ea-8add-63062a21a8c7.png)
 
