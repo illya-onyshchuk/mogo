@@ -4,4 +4,4 @@
 
 ![mogoimg](https://github.com/illya-onyshchuk/mogo/blob/master/preview-1.png)
 
-![mogoimg]()
+![mogoimg](https://github.com/illya-onyshchuk/mogo/blob/master/preview-2.png)
